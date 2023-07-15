@@ -1,4 +1,4 @@
-package org.example.hiproject.Services;
+package Services;
 
 import org.example.hiproject.entities.Branch;
 import org.hibernate.Session;

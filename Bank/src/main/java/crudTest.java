@@ -1,5 +1,3 @@
-package org.example.hiproject;
-
 import org.example.hiproject.Services.AccountService;
 import org.example.hiproject.Services.BaseService;
 import org.example.hiproject.Services.BranchService;

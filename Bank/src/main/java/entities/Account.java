@@ -1,4 +1,4 @@
-package org.example.hiproject.entities;
+package entities;
 
 
 import lombok.Data;
